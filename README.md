@@ -28,5 +28,5 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3c873a?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman&logoColor=EF5B25" />
     
-  <img alt="WordPress" src="" />
+  <img alt="WordPress" src="https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
 </div>
