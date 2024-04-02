@@ -1,5 +1,5 @@
 <h2 align='center'>
-  Hi there 👋 I'm Slave 👨‍💻
+  Hi there 👋 I'm Slave 🚴‍♂️‍💻
 </h2>
 
 
