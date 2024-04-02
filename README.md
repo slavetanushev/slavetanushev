@@ -4,7 +4,7 @@
 
 
 <p align='center'>
-  A front end developer.
+  Front-End Developer.
 </p>
 
 <p align='center'>
